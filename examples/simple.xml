@@ -1,0 +1,5 @@
+<doc>
+   <src ref="foo"/>
+   <dest id="foo">bar</dest>
+   <src ref="foo"/>
+</doc>
